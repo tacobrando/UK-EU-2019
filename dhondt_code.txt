@@ -1,0 +1,46 @@
+def main():
+    filename = input('Vote file name: ')
+    nbrSeats = int(input('Number of seats to be allocated: '))
+    votes = readVoteFile(filename)
+    seats = getSeats(votes, nbrSeats)
+    for party in seats:
+        print(party,'gets',seats[party],'seats')
+
+def getSeats(votes,nbrSeats):
+    seats = {}
+    for party in votes:
+        seats[party] = 0
+    for round in range(0,nbrSeats):
+        party = getWinner(votes,seats)
+        seats[party] += 1
+    return seats
+
+def getWinner(votes,seats):
+    maxQuotient = -1
+    for party in votes:
+        quotient = getQuotient(party,votes,seats)
+        if quotient > maxQuotient:
+            winner = party
+            maxQuotient = quotient
+
+    return winner
+
+def getQuotient(party,votes,seats):
+    return votes[party]/(1 + seats[party]) 
+
+def readVoteFile(filename):
+    voteFile = open(filename)
+    votes = {}
+    for line in voteFile:
+        lineSplit = line.split(':')
+        party = lineSplit[0].strip()
+        nbrVotes = int(lineSplit[1])
+        votes[party] = nbrVotes
+    return votes
+        
+        
+        
+#main program
+main()
+        
+    

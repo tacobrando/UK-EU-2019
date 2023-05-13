@@ -1,0 +1,150 @@
+_Constituency:East Midlands
+_Seats:5
+Brexit Party:452321
+Liberal Democrats:203989
+Labour:164682
+Conservative:126138
+Green:124630
+UKIP:58198
+Change UK:41117
+Independent Network:7641
+Simon Rood (Independent):4511
+
+_Constituency:East of England
+_Seats:7
+Brexit Party:604715
+Liberal Democrats:361563
+Green:202460
+Conservative:163830
+Labour:139490
+Change UK:58274
+UKIP:54676
+English Democrat:10217
+Attila Csordas (Independent):3230
+
+_Constituency:London
+_Seats:8
+Liberal Democrats:608725
+Labour:536810
+Brexit Party:400257
+Green:278957
+Conservative:177964
+Change UK:117635
+UKIP:46497
+Animal Welfare:25232
+Women's Equality:23766
+UK EU:18806
+Claudia Mcdowell (Independent):1036
+Daze Aghaji (Independent):1018
+Roger Hallam (Independent):924
+Kofi Klu (Independent):869
+Andrea Venzon (Independent):731
+Mike Shad (Independent):707
+Zoe Lafferty (Independent):436
+Andrew Medhurst (Independent):430
+Alan Kirkby (Independent):401
+Ian Sowden (Independent):254
+Henry Muss (Independent):226
+
+_Constituency:North East England
+_Seats:3
+Brexit Party:240056
+Labour:119931
+Liberal Democrats:104330
+Green:49905
+Conservative:42395
+UKIP:38269
+Change UK:24968
+
+_Constituency:North West England
+_Seats:8
+Brexit Party:541843
+Labour:380193
+Liberal Democrats:297507
+Green:216581
+Conservative:131002
+UKIP:62464
+Change UK:47237
+Tommy Robinson (Independent):38908
+English Democrat:10045
+UK EU:7125
+Mohammad Aslam (Independent):2002
+
+_Constituency:South East England
+_Seats:10
+Brexit Party:915686
+Liberal Democrats:653743
+Green:343249
+Conservative:260277
+Labour:184678
+Change UK:105832
+UKIP:56487
+UK EU:7645
+Jason Guy Spencer McMahon (Independent):3650
+Socialist (GB):3505
+David Victor Round (Independent):2606
+Michael Jeffrey Turberville (Independent):1587
+
+_Constituency:South West England
+_Seats:6
+Brexit Party:611742
+Liberal Democrats:385095
+Green:302364
+Conservative:144674
+Labour:108100
+UKIP:53739
+Change UK:46612
+English Democrat:8393
+Larch Maxey (Independent):1772
+Mothiur Rahman (Independent):755
+Neville Seed (Independent):3383
+
+_Constituency:West Midlands
+_Seats:7
+Brexit Party:507152
+Labour:228298
+Liberal Democrats:219982
+Green:143520
+Conservative:135279
+UKIP:66934
+Change UK:45673
+
+_Constituency:Yorkshire and the Humber
+_Seats:6
+Brexit Party:470351
+Labour:210516
+Liberal Democrats:200180
+Green:166980
+Conservative:92863
+UKIP:56100
+Yorkshire Party:50842
+Change UK:30162
+English Democrat:11283
+
+_Constituency:Scotland
+_Seats:6
+SNP:594553
+Brexit Party:233006
+Liberal Democrats:218285
+Conservative:182476
+Labour:146724
+Scottish Green:129603
+Change UK:30004
+UKIP:28418
+Gordon Edgar (Independent):6128
+Ken Parke (Independent):2049
+
+_Constituency:Wales
+_Seats:4
+Brexit Party:271404
+Plaid Cymru:163928
+Labour:127833
+Liberal Democrats:113885
+Conservative:54587
+Green:52660
+UKIP:27566
+Change UK:24332
+
+
+
+
